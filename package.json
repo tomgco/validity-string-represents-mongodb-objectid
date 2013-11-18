@@ -1,6 +1,6 @@
 {
   "name": "validity-string-represents-mongodb-objectid",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Validity style validator to ensure a property represents a mongodb object id",
   "main": "index.js",
   "directories": {
