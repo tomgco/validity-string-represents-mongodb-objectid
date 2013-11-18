@@ -1,6 +1,6 @@
 {
   "name": "validity-string-represents-mongodb-objectid",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Validity style validator to ensure a property represents a mongodb object id",
   "main": "index.js",
   "directories": {
@@ -8,10 +8,10 @@
     "test": "test"
   },
   "publishConfig": {
-    "registry":"http://registry.npm.org"
+    "registry": "http://registry.npm.org"
   },
-  "scripts":
-  { "test": "make test"
+  "scripts": {
+    "test": "make test"
   },
   "repository": {
     "type": "git",
@@ -23,7 +23,7 @@
     "url": "https://github.com/tomgco/validity-string-represents-mongodb-objectid/issues"
   },
   "homepage": "https://github.com/tomgco/validity-string-represents-mongodb-objectid",
-  "devDependencies":
-  { "mocha": "*"
+  "devDependencies": {
+    "mocha": "*"
   }
 }
